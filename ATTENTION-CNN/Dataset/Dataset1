@@ -1,1 +1,5 @@
+This data set records and labels the presence of 13 classes of objects, viz. pedestrian, person, car, van, bus, truck, motor, bicycle, awning-tricycle, and tricycle. The first dataset (DS1) is provided by the
+Machine Learning and Data Mining Laboratory at Tianjin University and is publicly available at visdrone19. It contains 8,629 samples of objects from the mentioned classes, captured by drone-mounted cameras
+
+Link of dataset mentioned below:
 https://github.com/VisDrone/VisDrone-Dataset
