@@ -7,4 +7,11 @@
 NOTE: 1) Each (.ipynb) file consists of the results of DPU mapping and generated (.xmodel) file and (.h5) file through the Vitis-ai compiler. This repository only consists of RTL implementation of the attention CNN model for the visdrone19 drone imagery dataset.  To evaluate models for other applications you may follow the given procedure. 
 
 
+PAPER LINK:
+https://ieeexplore.ieee.org/document/10854579
+
+
 In case of any inconvenience drop a mail to respective email id: pmi2017003@iiita.ac.in, yadav.49@iitj.ac.in
+
+
+
